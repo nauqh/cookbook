@@ -51,3 +51,5 @@ My personal notes and guidelines in navigating the professional disciplines of d
 - [React Typescript Tutorial](https://youtu.be/SqcY0GlETPk?si=NscGRsX2KbrUgrvy)
 - [Chakra UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
 - [Shadcn UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
+- [Intermediate Github Tutorial](https://youtu.be/7h6_aZZ_iNg?si=yHfWlO4qsHCm90I8)
+- [Pytorch For Deep Learning](https://youtu.be/Z_ikDlimN6A?si=CBajdqzGWWu_Ztff)
