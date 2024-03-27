@@ -1,11 +1,13 @@
 ![](logo.svg)
 
 # The Junior Developer Handbook
-My personal notes and guidelines for effectively navigating the professional disciplines of data science and software engineering.
+My personal notes and guidelines in navigating the professional disciplines of data science and software engineering.
 
 # Table Of Contents:
 - [Cheatsheet and Style Guides](#cheatsheet-and-style-guides)
 - [Youtube Channels](#youtube-channels)
+- [Books](#books)
+- [Courses]()
 
 # Resources
 
@@ -23,6 +25,9 @@ My personal notes and guidelines for effectively navigating the professional dis
 - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
 - [Kevin Stratvert](https://www.youtube.com/@KevinStratvert)
 
+### Tech news
+- [Fireship](https://www.youtube.com/@Fireship)
+
 ## Books
 
 ### Data Science
@@ -38,3 +43,11 @@ My personal notes and guidelines for effectively navigating the professional dis
 - [Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
 - [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
 - [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
+
+## Courses
+- [Python Full Course For Beginner - Mosh Hamedani](https://youtu.be/_uQrJ0TkZlc?si=8zRiC_JfoCawP7lp)
+- [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA?si=T-bNUlkNio139SzW)
+- [Docker Crash Course For Beginner](https://youtu.be/pg19Z8LL06w?si=d2n2sPLJsWZo_Nic)
+- [React Typescript Tutorial](https://youtu.be/SqcY0GlETPk?si=NscGRsX2KbrUgrvy)
+- [Chakra UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
+- [Shadcn UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
