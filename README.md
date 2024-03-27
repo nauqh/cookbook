@@ -1,13 +1,13 @@
-![](logo.svg)
-
 # The Junior Developer Handbook
 My personal notes and guidelines in navigating the professional disciplines of data science and software engineering.
+
+![](logo.jpg)
 
 # Table Of Contents:
 - [Cheatsheet and Style Guides](#cheatsheet-and-style-guides)
 - [Youtube Channels](#youtube-channels)
 - [Books](#books)
-- [Courses]()
+- [Courses](#courses)
 
 # Resources
 
