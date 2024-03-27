@@ -44,6 +44,11 @@ My personal notes and guidelines in navigating the professional disciplines of d
 - [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
 - [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
 
+### Software Engineering
+- [Clean Code](https://drive.google.com/file/d/1KvyL9y0ylPG0N4l2ia1sJcJTkrhwIHlb/view?usp=sharing)
+- [Clean Craftsmanship](https://drive.google.com/file/d/1Xb7Tp9J0-E2S4wcb0KgN7KD1FlbpYxt3/view?usp=sharing)
+- [Head First Design Patterns](https://drive.google.com/file/d/11qIwJHX0fLp1pyFQUbgtX-RgHnSHQZ1P/view?usp=sharing)
+
 ## Courses
 - [Python Full Course For Beginner - Mosh Hamedani](https://youtu.be/_uQrJ0TkZlc?si=8zRiC_JfoCawP7lp)
 - [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA?si=T-bNUlkNio139SzW)
