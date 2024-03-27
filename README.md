@@ -1,12 +1,17 @@
 ![](logo.svg)
 
-# The Developer Handbook
+# The Junior Developer Handbook
+My personal notes and guidelines for effectively navigating the professional disciplines of data science and software engineering.
 
 # Table Of Contents:
-- [SQL Cheatsheet](sections/sql.md)
-- [SQL Style Guide](sections/style-guide.md)
+- [Cheatsheet and Style Guides](#cheatsheet-and-style-guides)
+- [Youtube Channels](#youtube-channels)
 
 # Resources
+
+## Cheatsheet and Style Guides
+- [SQL Cheatsheet](sections/sql.md)
+- [SQL Style Guide](sections/style-guide.md)
 
 ## Youtube Channels
 
@@ -28,8 +33,8 @@
 - [Introduction to Probability and Statistics](https://drive.google.com/file/d/1j-rc7hayY7yu0YJ94xNlIXQTwpix_rFW/view?usp=sharing)
 
 ### Data Engineering
-[Fundamentals of Data Engineering](https://drive.google.com/file/d/1bJxNr5LFjPV3MvthLx-Sj70nWAKKz4rv/view?usp=sharing)
-[The Data Warehouse Toolkit](https://drive.google.com/file/d/1LJWuUwkt4jZ4tE4dbmcVEFhn3stjuEy2/view?usp=sharing)
-[Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
-[Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
-[Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
+- [Fundamentals of Data Engineering](https://drive.google.com/file/d/1bJxNr5LFjPV3MvthLx-Sj70nWAKKz4rv/view?usp=sharing)
+- [The Data Warehouse Toolkit](https://drive.google.com/file/d/1LJWuUwkt4jZ4tE4dbmcVEFhn3stjuEy2/view?usp=sharing)
+- [Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
+- [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
+- [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
