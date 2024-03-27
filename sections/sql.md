@@ -1,4 +1,4 @@
-# SQL GUIDE
+# 🏢SQL GUIDE
 
 ## Overview
 
@@ -295,5 +295,4 @@ Correlated Subquery:
    WHERE department = emp.department
 ```
 
-
-Note forked from dataengineering.wiki: https://dataengineering.wiki/Guides/SQL+Guide
+<!-- Note forked from dataengineering.wiki: https://dataengineering.wiki/Guides/SQL+Guide -->
