@@ -12,6 +12,7 @@ My personal notes and guidelines in navigating the professional disciplines of d
 # Resources
 
 ## Cheatsheet and Style Guides
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - [SQL Cheatsheet](sections/sql.md)
 - [SQL Style Guide](sections/style-guide.md)
 
