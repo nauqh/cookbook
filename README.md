@@ -4,12 +4,12 @@ My personal notes and guidelines in navigating the professional disciplines of d
 ![](logo.jpg)
 
 ## Table Of Contents:
-- [1. Roadmaps](#1-roadmap)
-- [2. Cheatsheet and Style guides](#2-cheatsheet-and-style-guides)
-- [3. Github repository](#3-github-repository)
-- [4. Courses and tutorial](#4-courses-and-tutorial)
-- [5. Newsletter](#5-newsletter)
-- [6. Books](#6-books)
+- [Roadmaps](#1-roadmap)
+- [Cheatsheet and Style guides](#2-cheatsheet-and-style-guides)
+- [Github repository](#3-github-repository)
+- [Courses and tutorial](#4-courses-and-tutorial)
+- [Newsletter](#5-newsletter)
+- [Books](#6-books)
 
 
 ## 1. Roadmap
