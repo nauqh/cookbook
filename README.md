@@ -97,20 +97,20 @@ Whether you're just starting out with coding or looking to brush up on your skil
 
 ## 6. Books
 ### Data Science
-- [Calling Bullshit](https://drive.google.com/file/d/1XpKthHe6qCoRWC76heDhi-3W8tQCjbau/view?usp=sharing)
+- [Calling Bullshit](https://www.amazon.com.au/Calling-Bullshit-Skepticism-Data-Driven-World/dp/0525509186)
 - [Storytelling With Data](https://drive.google.com/file/d/1cb_Gw0hHwjEnPMSfqY6Qq0NNh9vx_dlM/view?usp=sharing)
-- [Python Machine Learning Cookbook](https://drive.google.com/file/d/1gL681453h3jAHhJs8UShkRDd81JyUBro/view?usp=sharing)
-- [Designing Machine Learning System](https://drive.google.com/file/d/1ZvonDE4ytFqSUc2xwa5mOHBzfbrndRQE/view?usp=sharing)
-- [Introduction to Probability and Statistics](https://drive.google.com/file/d/1j-rc7hayY7yu0YJ94xNlIXQTwpix_rFW/view?usp=sharing)
+- [Python Machine Learning Cookbook](https://www.amazon.com.au/Machine-Learning-Python-Cookbook-Chris/dp/1491989386)
+- [Designing Machine Learning System](https://www.amazon.com.au/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+- [Introduction to Probability and Statistics](https://www.amazon.com.au/Introduction-Probability-Statistics-Engineers-Scientists/dp/0128243465)
 
 ### Data Engineering
-- [Fundamentals of Data Engineering](https://drive.google.com/file/d/1bJxNr5LFjPV3MvthLx-Sj70nWAKKz4rv/view?usp=sharing)
+- [Fundamentals of Data Engineering](https://www.amazon.com.au/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
 - [The Data Warehouse Toolkit](https://drive.google.com/file/d/1LJWuUwkt4jZ4tE4dbmcVEFhn3stjuEy2/view?usp=sharing)
-- [Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
-- [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
-- [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
+- [Data Engineering with AWS](https://www.amazon.com.au/Data-Engineering-AWS-cloud-based-transformation/dp/1800560419)
+- [Data Engineering with DBT](https://www.amazon.com.au/Data-Engineering-dbt-cloud-based-dependable-ebook/dp/B0C4LL19G7)
+- [Data Pipelines Pocket Reference](https://www.amazon.com.au/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831)
 
 ### Software Engineering
 - [Clean Code](https://drive.google.com/file/d/1KvyL9y0ylPG0N4l2ia1sJcJTkrhwIHlb/view?usp=sharing)
-- [Clean Craftsmanship](https://drive.google.com/file/d/1Xb7Tp9J0-E2S4wcb0KgN7KD1FlbpYxt3/view?usp=sharing)
-- [Head First Design Patterns](https://drive.google.com/file/d/11qIwJHX0fLp1pyFQUbgtX-RgHnSHQZ1P/view?usp=sharing)
+- [Clean Craftsmanship](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
+- [Head First Design Patterns](https://www.amazon.com.au/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
