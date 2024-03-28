@@ -10,35 +10,26 @@ My personal notes and guidelines in navigating the professional disciplines of d
 - [Courses](#courses)
 
 
-## 1. Books
-### Data Science
-- [Calling Bullshit](https://drive.google.com/file/d/1XpKthHe6qCoRWC76heDhi-3W8tQCjbau/view?usp=sharing)
-- [Storytelling With Data](https://drive.google.com/file/d/1cb_Gw0hHwjEnPMSfqY6Qq0NNh9vx_dlM/view?usp=sharing)
-- [Python Machine Learning Cookbook](https://drive.google.com/file/d/1gL681453h3jAHhJs8UShkRDd81JyUBro/view?usp=sharing)
-- [Designing Machine Learning System](https://drive.google.com/file/d/1ZvonDE4ytFqSUc2xwa5mOHBzfbrndRQE/view?usp=sharing)
-- [Introduction to Probability and Statistics](https://drive.google.com/file/d/1j-rc7hayY7yu0YJ94xNlIXQTwpix_rFW/view?usp=sharing)
+## 1. Roadmap
+- [Frontend](https://roadmap.sh/frontend)
+- [Backend](https://roadmap.alexhyett.com/backend-developer-roadmap/)
+- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
+- [PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [Design System](https://roadmap.sh/design-system)
 
-### Data Engineering
-- [Fundamentals of Data Engineering](https://drive.google.com/file/d/1bJxNr5LFjPV3MvthLx-Sj70nWAKKz4rv/view?usp=sharing)
-- [The Data Warehouse Toolkit](https://drive.google.com/file/d/1LJWuUwkt4jZ4tE4dbmcVEFhn3stjuEy2/view?usp=sharing)
-- [Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
-- [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
-- [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
+## 2. Cheatsheet and Style Guides
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- [SQL Primer](sections/sql.md)
+- [SQL Style Guide](sections/style-guide.md)
+- [Data Engineering Wiki](https://dataengineering.wiki/)
 
-### Software Engineering
-- [Clean Code](https://drive.google.com/file/d/1KvyL9y0ylPG0N4l2ia1sJcJTkrhwIHlb/view?usp=sharing)
-- [Clean Craftsmanship](https://drive.google.com/file/d/1Xb7Tp9J0-E2S4wcb0KgN7KD1FlbpYxt3/view?usp=sharing)
-- [Head First Design Patterns](https://drive.google.com/file/d/11qIwJHX0fLp1pyFQUbgtX-RgHnSHQZ1P/view?usp=sharing)
-
-
-## 2. Github repository
+## 3. Github repository
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
 
-
-## 3. Courses and Tutorial
+## 4. Courses and Tutorial
 ### Data Science
 - [Data Analyst Bootcamp](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=NHnLOeZdUhTdL8DP)
 - [Plotly Tutorial](https://youtu.be/GGL6U0k8WYA?si=xSc1OxRluKhsrfKL)
@@ -70,8 +61,28 @@ My personal notes and guidelines in navigating the professional disciplines of d
 - [Github Actions](https://youtu.be/UEOtZvTCmDo?si=84PseT6S1Yow0bcx)
 - [Git Good Simplified](https://youtube.com/playlist?list=PLYeOw6sTSy6aZZ1RJNYyJ43iKtDdAFUB-&si=LTCONY4kiJQw3g3I)
 
-## 4. Cheatsheet and Style Guides
-- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-- [SQL Cheatsheet](sections/sql.md)
-- [SQL Style Guide](sections/style-guide.md)
-- [Backend Developer](https://roadmap.alexhyett.com/backend-developer-roadmap/)
+## 5. Newsletter
+- [Dev Notes](https://www.devnotesdaily.com/)
+- [Dave Bailey](https://www.dave-bailey.com/newsletter)
+- [The Pudding](https://pudding.cool/)
+- [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
+
+## 6. Books
+### Data Science
+- [Calling Bullshit](https://drive.google.com/file/d/1XpKthHe6qCoRWC76heDhi-3W8tQCjbau/view?usp=sharing)
+- [Storytelling With Data](https://drive.google.com/file/d/1cb_Gw0hHwjEnPMSfqY6Qq0NNh9vx_dlM/view?usp=sharing)
+- [Python Machine Learning Cookbook](https://drive.google.com/file/d/1gL681453h3jAHhJs8UShkRDd81JyUBro/view?usp=sharing)
+- [Designing Machine Learning System](https://drive.google.com/file/d/1ZvonDE4ytFqSUc2xwa5mOHBzfbrndRQE/view?usp=sharing)
+- [Introduction to Probability and Statistics](https://drive.google.com/file/d/1j-rc7hayY7yu0YJ94xNlIXQTwpix_rFW/view?usp=sharing)
+
+### Data Engineering
+- [Fundamentals of Data Engineering](https://drive.google.com/file/d/1bJxNr5LFjPV3MvthLx-Sj70nWAKKz4rv/view?usp=sharing)
+- [The Data Warehouse Toolkit](https://drive.google.com/file/d/1LJWuUwkt4jZ4tE4dbmcVEFhn3stjuEy2/view?usp=sharing)
+- [Data Engineering with AWS](https://drive.google.com/file/d/1v061Km53mBHVqAGGbH4huNppX5NjdSZI/view?usp=sharing)
+- [Data Engineering with DBT](https://drive.google.com/file/d/1ulsiq3c6xFMMD4yPbXF0VnM1nLYXPkfK/view?usp=sharing)
+- [Data Pipelines Pocket Reference](https://drive.google.com/file/d/1-vzQH1TODL-57oBJElkAYHS_6LSJtWN9/view?usp=sharing)
+
+### Software Engineering
+- [Clean Code](https://drive.google.com/file/d/1KvyL9y0ylPG0N4l2ia1sJcJTkrhwIHlb/view?usp=sharing)
+- [Clean Craftsmanship](https://drive.google.com/file/d/1Xb7Tp9J0-E2S4wcb0KgN7KD1FlbpYxt3/view?usp=sharing)
+- [Head First Design Patterns](https://drive.google.com/file/d/11qIwJHX0fLp1pyFQUbgtX-RgHnSHQZ1P/view?usp=sharing)
