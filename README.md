@@ -21,6 +21,19 @@ Whether you're just starting out with coding or looking to brush up on your skil
 - [PostgreSQL](https://roadmap.sh/postgresql-dba)
 - [Design System](https://roadmap.sh/design-system)
 
+**Different data roles in the field of data science**
+
+| Aspect             | Data Analyst                                         | Data Engineer                                       | Data Scientist                                      |
+|--------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| **Primary Focus**  | Analyzing data to extract insights and inform decisions | Designing, constructing, and maintaining data pipelines | Developing algorithms and models to interpret data   |
+| **Skills**         | SQL, Excel, data visualization tools (e.g., Tableau)  | Programming languages (e.g., Python, Java), ETL tools | Statistical analysis, machine learning, programming |
+| **Tools**          | Excel, SQL, Tableau, Power BI, Google Analytics      | Hadoop, Spark, Kafka, Airflow, AWS/GCP/Azure services | Python libraries (e.g., Pandas, Scikit-learn), R     |
+| **Education**      | Bachelor’s degree in Statistics, Mathematics, or related field | Bachelor’s degree in Computer Science, Software Engineering, or related field | Master’s/Ph.D. in Computer Science, Statistics, or related field |
+| **Responsibilities** | Clean and preprocess data, create reports and dashboards | Develop and maintain data architecture, optimize data workflows | Design experiments, develop predictive models, communicate findings |
+| **Average Salary** | $65,000 - $110,000 (US)                               | $90,000 - $150,000 (US)                             | $100,000 - $160,000 (US)                            |
+| **Job Outlook**    | Growing demand as businesses rely more on data-driven decisions | Rapidly growing field due to increasing data complexity and volume | High demand due to the need for advanced data analysis and AI solutions |
+
+
 ## 2. Cheatsheet and Style Guides
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - [SQL Primer](sections/sql.md)
