@@ -4,10 +4,12 @@ My personal notes and guidelines in navigating the professional disciplines of d
 ![](logo.jpg)
 
 ## Table Of Contents:
-- [Cheatsheet and Style Guides](#cheatsheet-and-style-guides)
-- [Youtube Channels](#youtube-channels)
-- [Books](#books)
-- [Courses](#courses)
+- [1. Roadmaps](#1-roadmap)
+- [2. Cheatsheet and Style guides](#2-cheatsheet-and-style-guides)
+- [3. Github repository](#3-github-repository)
+- [4. Courses and tutorial](#4-courses-and-tutorial)
+- [5. Newsletter](#5-newsletter)
+- [6. Books](#6-books)
 
 
 ## 1. Roadmap
@@ -23,7 +25,7 @@ My personal notes and guidelines in navigating the professional disciplines of d
 - [SQL Style Guide](sections/style-guide.md)
 - [Data Engineering Wiki](https://dataengineering.wiki/)
 
-## 3. Github repository
+## 3. Github Repository
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
