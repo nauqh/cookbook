@@ -3,6 +3,8 @@ My personal notes and guidelines in navigating the professional disciplines of c
 
 Whether you're just starting out with coding or looking to brush up on your skills, this repository has everything you need to feel confident and capable. Think of it as your friendly guide on your coding journey!
 
+**Update** (28 March 2024): Add developer roadmaps
+
 ![](logo.jpg)
 
 ## Table Of Contents:
