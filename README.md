@@ -33,6 +33,19 @@ Whether you're just starting out with coding or looking to brush up on your skil
 | **Average Salary** | $65,000 - $110,000 (US)                               | $90,000 - $150,000 (US)                             | $100,000 - $160,000 (US)                            |
 | **Job Outlook**    | Growing demand as businesses rely more on data-driven decisions | Rapidly growing field due to increasing data complexity and volume | High demand due to the need for advanced data analysis and AI solutions |
 
+**Different developer roles in the field of software development**
+
+| Aspect               | Frontend Developer                               | Backend Developer                               | Full-Stack Developer                            | DevOps Engineer                                |
+|----------------------|---------------------------------------------------|-------------------------------------------------|-------------------------------------------------|------------------------------------------------|
+| **Primary Focus**    | Creating user-facing interfaces and experiences   | Developing server-side logic and databases     | Handling both frontend and backend development | Managing infrastructure and deployment       |
+| **Skills**           | HTML, CSS, JavaScript, UI/UX design              | Programming languages (e.g., Java, Python), databases | Proficiency in both frontend and backend technologies | Automation, CI/CD, cloud services            |
+| **Tools**            | React, Angular, Vue.js, Bootstrap                 | Node.js, Spring Boot, Django, MongoDB           | Combination of frontend and backend frameworks | Docker, Kubernetes, Jenkins, Terraform        |
+| **Education**        | Bachelor’s degree in Computer Science or related field | Bachelor’s degree in Computer Science or related field | Bachelor’s degree in Computer Science or related field | Bachelor’s degree in Computer Science or related field |
+| **Responsibilities** | Designing and implementing user interfaces        | Developing server-side logic, database design   | Developing features across the stack            | Automating software development processes     |
+| **Average Salary**   | $70,000 - $120,000 (US)                           | $80,000 - $130,000 (US)                         | $90,000 - $140,000 (US)                         | $90,000 - $150,000 (US)                        |
+| **Job Outlook**      | Demand remains high as web applications continue to grow | Continuously in demand as backend systems are crucial | Increasing demand for professionals who can work across the stack | Rapidly growing field as more companies adopt DevOps practices |
+
+
 
 ## 2. Cheatsheet and Style Guides
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
