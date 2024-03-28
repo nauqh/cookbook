@@ -1,4 +1,4 @@
-# Guide to Data Science & Software Development
+# The Developer Handbook
 My personal notes and guidelines in navigating the professional disciplines of computer science. Here, I've gathered a bunch of useful stuff to help new folks in data science and software development. I've got cheat sheets, roadmaps, tutorials, newsletters, and must-read books, all put together with care to make learning easier. 
 
 Whether you're just starting out with coding or looking to brush up on your skills, this repository has everything you need to feel confident and capable. Think of it as your friendly guide on your coding journey!
