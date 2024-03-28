@@ -36,8 +36,8 @@ Whether you're just starting out with coding or looking to brush up on your skil
 
 ## 2. Cheatsheet and Style Guides
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-- [SQL Primer](sections/sql.md)
-- [SQL Style Guide](sections/style-guide.md)
+- [SQL Primer](https://dataengineering.wiki/Guides/SQL+Guide)
+- [SQL Style Guide](https://github.com/mattm/sql-style-guide)
 - [Data Engineering Wiki](https://dataengineering.wiki/)
 
 ## 3. Github Repository
