@@ -111,7 +111,8 @@ Whether you're just starting out with coding or looking to brush up on your skil
 - [Github Actions](https://youtu.be/UEOtZvTCmDo?si=84PseT6S1Yow0bcx)
 - [Git Good Simplified](https://youtube.com/playlist?list=PLYeOw6sTSy6aZZ1RJNYyJ43iKtDdAFUB-&si=LTCONY4kiJQw3g3I)
 
-## 5. Newsletter
+## 5. Newsletter and Social
+- [Dev.to](https://dev.to/)
 - [Dev Notes](https://www.devnotesdaily.com/)
 - [Dave Bailey](https://www.dave-bailey.com/newsletter)
 - [The Pudding](https://pudding.cool/)
