@@ -49,7 +49,10 @@ Whether you're just starting out with coding or looking to brush up on your skil
 
 ## 2. Cheatsheet and Style Guides
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
+- [Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- [Clean Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [SQL Primer](https://dataengineering.wiki/Guides/SQL+Guide)
 - [SQL Style Guide](https://github.com/mattm/sql-style-guide)
 - [Data Engineering Wiki](https://dataengineering.wiki/)
