@@ -76,6 +76,10 @@ Whether you're just starting out with coding or looking to brush up on your skil
 ## 4. Courses and Tutorial
 ### Data Science
 - [Data Analyst Bootcamp](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=NHnLOeZdUhTdL8DP)
+- [Tableau Tutorial](https://youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&si=2oGDZxdKP17eK6ab)
+- [PowerBI Tutorial](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=2FtcrCiuWY4L74vf)
+- [Intermediate SQL](https://youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&si=kXq5g_8jM9aD89SM)
+- [Advanced SQL](https://youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&si=5QCPtYhbnnb0ytBi)
 - [Plotly Tutorial](https://youtu.be/GGL6U0k8WYA?si=xSc1OxRluKhsrfKL)
 - [Pytorch for Deep Learning](https://youtu.be/Z_ikDlimN6A?si=Yhe-g0yK0Jd9Zsec)
 
