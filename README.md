@@ -46,10 +46,7 @@ Whether you're just starting out with coding or looking to brush up on your skil
 | **Job Outlook**      | Demand remains high as web applications continue to grow | Continuously in demand as backend systems are crucial | Increasing demand for professionals who can work across the stack | Rapidly growing field as more companies adopt DevOps practices |
 
 
-
 ## 2. Cheatsheet and Style Guides
-- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
-
 ### Python
 - [Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -73,6 +70,7 @@ Whether you're just starting out with coding or looking to brush up on your skil
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 - [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
 
 ## 4. Courses and Tutorial
