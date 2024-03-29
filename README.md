@@ -101,6 +101,7 @@ Whether you're just starting out with coding or looking to brush up on your skil
 - [Django Crash Course](https://youtu.be/PtQiiknWUcI?si=7U6GisEEPYkb24gO)
 - [Python API Development with FastAPI](https://youtu.be/0sOvCWFmrtA?si=-cNj-fGHkxvqV3vC)
 - [PostgreSQL Tutorial](https://youtu.be/qw--VYLpxG4?si=Ejks4FmvL4hski1I)
+- [SQL Server Tutorial](https://youtube.com/playlist?list=PL82C6-O4XrHfZoh2ZH7-HCPyh9oHeYPnz&si=80Sc88y2DqrZoINt)
 - [Docker Crash Course](https://youtu.be/pg19Z8LL06w?si=oqhSWMIWOlXTw3e6)
 
 **Version control**
