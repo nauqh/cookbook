@@ -48,6 +48,7 @@ Whether you're just starting out with coding or looking to brush up on your skil
 
 
 ## 2. Cheatsheet and Style Guides
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - [SQL Primer](https://dataengineering.wiki/Guides/SQL+Guide)
 - [SQL Style Guide](https://github.com/mattm/sql-style-guide)
@@ -75,6 +76,7 @@ Whether you're just starting out with coding or looking to brush up on your skil
 **Frontend**
 - [React Full Course](https://youtu.be/CgkZ7MvWUAA?si=qC0_ijGVx2MFcujN)
 - [React Typescript Tutorial](https://youtu.be/SqcY0GlETPk?si=NscGRsX2KbrUgrvy)
+- [NextJS 14 Full Course](https://youtu.be/wm5gMKuwSYk?si=pDHhH__ZvNK3KteR)
 - [Chakra UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
 - [Shadcn UI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
 
