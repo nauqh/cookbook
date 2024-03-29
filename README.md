@@ -49,13 +49,25 @@ Whether you're just starting out with coding or looking to brush up on your skil
 
 ## 2. Cheatsheet and Style Guides
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
+
+### Python
 - [Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
+### Javascript
 - [Clean Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
+
+### SQL
 - [SQL Primer](https://dataengineering.wiki/Guides/SQL+Guide)
 - [SQL Style Guide](https://github.com/mattm/sql-style-guide)
 - [Data Engineering Wiki](https://dataengineering.wiki/)
+
+### HTML & CSS
+- [Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+- [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## 3. Github Repository
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
